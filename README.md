@@ -2,7 +2,7 @@
 Styling for an animated colorful background for a hero-section.
 
 ## Deployment 
-if you would like to interact with the componant you can access it from [here](test.com). 
+if you would like to interact with the componant you can access it from [here](https://lamalqahtani.github.io/hero-section-component/). 
 
 
 ## Screen Shots
